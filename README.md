@@ -1,7 +1,8 @@
 # 💫 About Me:
 I am currently pursuing 2nd year B.Tech in Computer Science Engineering <br>
 <p>I am intrested to solve Problems ,  Coding , building website.</p><br>
-<p>Now recently learning git  Configuration</p>
+<p>Now recently learning git  Configuration</p> <br>
+<p> Recently started to learn SQL</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeeviigodachi__2025) 
