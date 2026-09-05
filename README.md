@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing 2nd year btech CSE <br>
+I am currently pursuing 2nd year B.Tech in Computer Science Engineering <br>
 
 
 ## 🌐 Socials:
